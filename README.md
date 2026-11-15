@@ -2,7 +2,7 @@
 
 A fuzzy-logic controller that keeps a car on the circular lane of a roundabout, with a simulation and a comparison of two ways of measuring the angle error (**Steer** and **Heading**).
 
-Semester project 1 of *Neuro-fuzzy control and applications*, School of Electrical and Computer Engineering, NTUA (September 2025). Author: Konstantinos Vaios Chronis.
+Course project 1 of *Neuro-fuzzy control and applications* (September 2025). Author: Konstantinos Vaios Chronis.
 
 ![Paths for several roundabout radii](figures/paths_multiple_R.png)
 
